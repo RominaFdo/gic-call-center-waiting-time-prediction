@@ -164,9 +164,9 @@ A Gaussian Process model using an RBF kernel combined with a White Kernel was al
 
 The models were evaluated using:
 
-* **RMSE** — Root Mean Squared Error
-* **MAE** — Mean Absolute Error
-* **R²** — Coefficient of Determination
+* **RMSE** - Root Mean Squared Error
+* **MAE** - Mean Absolute Error
+* **R²** - Coefficient of Determination
 
 The notebook compares the performance of all four models on the held-out test set.
 
