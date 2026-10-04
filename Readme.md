@@ -127,6 +127,8 @@ The project includes exploratory analysis of:
 * Relationships between staffing, workload, KB coverage, and waiting time
 
 An outlier filtering step was also applied to the target variable using the 99th percentile.
+![Feature distributions](images/1.png)
+![Correlation Matrix](images/2.png)
 
 ---
 
